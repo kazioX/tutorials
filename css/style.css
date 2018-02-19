@@ -1,6 +1,9 @@
 /* CSS Document */
 
 /*Global Css starts*/
+body{
+	background-color: lightblue;
+}
 
 *{
 	padding:0px;
